@@ -1,0 +1,4 @@
+/*=== Default Button ===*/
+.width-auto .elementor-button-icon svg {
+    width: auto !important;
+}

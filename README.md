@@ -1,2 +1,0 @@
-# mektep.kg
-mektep
